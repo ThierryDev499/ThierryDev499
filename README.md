@@ -14,15 +14,24 @@ Desenho arquiteturas, desenvolvo sistemas e crio automações para diferentes ne
 
 ## Projetos em destaque
 
-Os repositórios abaixo mostram algumas frentes do meu trabalho. CadastroElectron, OCR-Contas-de-luz, JS_PDF_SABESP e JS_DAEB_RS fazem parte de um mesmo projeto de automação de contas de consumo, com adaptações para diferentes estados e concessionárias. A leitura de PDFs e o OCR são um exemplo da minha atuação em automação de processos.
+### Automação de contas de consumo
+
+Projeto contratado para automatizar a captação, leitura e tratamento de contas em PDF, envolvendo água, energia elétrica e energia solar em diferentes estados e concessionárias. Trabalhei com JavaScript, Electron, OCR e RPA para lidar com os diferentes layouts e regras de extração.
+
+O código está distribuído em quatro repositórios, cada um com uma parte do mesmo projeto:
+
+| Parte do projeto | Repositório |
+| --- | --- |
+| Aplicação desktop de apoio à operação | [CadastroElectron](https://github.com/ThierryDev499/CadastroElectron) |
+| Leitura por OCR de contas de energia | [OCR-Contas-de-luz](https://github.com/ThierryDev499/OCR-Contas-de-luz) |
+| Extração de dados de contas de água da Sabesp | [JS_PDF_SABESP](https://github.com/ThierryDev499/JS_PDF_SABESP) |
+| Tratamento de contas de água da DAEB/RS | [JS_DAEB_RS](https://github.com/ThierryDev499/JS_DAEB_RS) |
+
+### Outros projetos
 
 - [Portifolio](https://thierrydev499.github.io/Portifolio/) - minha página pública com foco em arquitetura, IA aplicada e automação.
 - [Sales-Comercial](https://github.com/ThierryDev499/Sales-Comercial) - produto comercial em TypeScript para gestão e acompanhamento de vendas.
 - [cnpj-lookup](https://github.com/ThierryDev499/cnpj-lookup) - consulta empresarial em React e TypeScript conectada a API pública de CNPJ.
-- [CadastroElectron](https://github.com/ThierryDev499/CadastroElectron) - aplicação Electron para apoiar fluxos de RPA e tratamento de contas em PDF.
-- [OCR-Contas-de-luz](https://github.com/ThierryDev499/OCR-Contas-de-luz) - OCR e tratamento de contas de luz em PDF para automação documental.
-- [JS_PDF_SABESP](https://github.com/ThierryDev499/JS_PDF_SABESP) - parser JavaScript para extrair dados de contas Sabesp em PDF.
-- [JS_DAEB_RS](https://github.com/ThierryDev499/JS_DAEB_RS) - leitura de PDFs DAEB/RS para fluxos envolvendo água, luz e energia solar.
 
 ## O que me move
 
