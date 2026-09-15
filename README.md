@@ -1,18 +1,20 @@
 # Thierry de Matos Azevedo
 
-Arquiteto de software e prompt engineer com foco em IA aplicada, automação documental, RPA e sistemas de negócio.
+Arquiteto de software e prompt engineer com atuação em IA aplicada, automação de processos e integração de sistemas.
 
-Gosto de trabalhar onde produto, operação e tecnologia se encontram: desenho arquitetura, organizo fluxos, crio automações e transformo processos manuais em sistemas mais confiáveis. Tenho experiência com leitura de documentos em PDF, OCR, JavaScript, integrações, CRM, ERP Protheus e solução de problemas operacionais que precisam sair do discurso e virar entrega.
+Desenho arquiteturas, desenvolvo sistemas e crio automações para diferentes necessidades do negócio. Meu trabalho envolve conectar ferramentas, organizar fluxos de dados e automatizar tarefas em processos comerciais e operacionais, com experiência em APIs, CRM, ERP Protheus e RPA.
 
 ## Onde atuo
 
 - Arquitetura de software para produtos web, CRM e operações comerciais
 - Engenharia de prompts, agentes e IA aplicada a fluxos reais
-- RPA e automação documental com PDFs, OCR e tratamento de dados
+- Automação de processos, tarefas e fluxos de trabalho com RPA, scripts e integrações
 - Integrações, APIs, rotinas de apoio operacional e ERP Protheus
 - Projetos em JavaScript, TypeScript, React, Node.js e Electron
 
 ## Projetos em destaque
+
+Os repositórios abaixo mostram algumas frentes do meu trabalho. CadastroElectron, OCR-Contas-de-luz, JS_PDF_SABESP e JS_DAEB_RS fazem parte de um mesmo projeto de automação de contas de consumo, com adaptações para diferentes estados e concessionárias. A leitura de PDFs e o OCR são um exemplo da minha atuação em automação de processos.
 
 - [Portifolio](https://thierrydev499.github.io/Portifolio/) - minha página pública com foco em arquitetura, IA aplicada e automação.
 - [Sales-Comercial](https://github.com/ThierryDev499/Sales-Comercial) - produto comercial em TypeScript para gestão e acompanhamento de vendas.
