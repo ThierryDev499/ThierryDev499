@@ -1,43 +1,39 @@
 # Thierry de Matos Azevedo
 
-Arquiteto de software e prompt engineer com atuação em IA aplicada, automação de processos e integração de sistemas.
+**Arquiteto de Software | Software Engineer | AI Automation | RPA & Backend**
 
-Desenho arquiteturas, desenvolvo sistemas e crio automações para diferentes necessidades do negócio. Meu trabalho envolve conectar ferramentas, organizar fluxos de dados e automatizar tarefas em processos comerciais e operacionais, com experiência em APIs, CRM, ERP Protheus e RPA.
+Desenvolvo produtos, integrações e automações para operações comerciais e empresariais. Minha experiência passa por APIs, CRM, ERP Protheus, RPA, processamento de documentos e aplicações com IA local.
 
-## Onde atuo
+Hoje, meu foco está em transformar processos reais em sistemas que possam ser mantidos, observados e evoluídos: da arquitetura e do backend até a interface usada pela operação.
 
-- Arquitetura de software para produtos web, CRM e operações comerciais
-- Engenharia de prompts, agentes e IA aplicada a fluxos reais
-- Automação de processos, tarefas e fluxos de trabalho com RPA, scripts e integrações
-- Integrações, APIs, rotinas de apoio operacional e ERP Protheus
-- Projetos em JavaScript, TypeScript, React, Node.js e Electron
+## Projetos principais
 
-## Projetos em destaque
+| Projeto | O que resolve | Tecnologias |
+| --- | --- | --- |
+| [AI Document Intelligence](https://github.com/ThierryDev499/ai-document-intelligence) | Importação de PDFs, resumo, embeddings e perguntas com RAG e fontes verificáveis | Python, FastAPI, Ollama, SQLite |
+| [Automation Orchestrator](https://github.com/ThierryDev499/automation-orchestrator) | Cadastro e execução de automações com fila persistente, retries, logs e webhooks | TypeScript, Fastify, SQLite, Docker |
+| [AI Support Agent](https://github.com/ThierryDev499/ai-support-agent) | Triagem de chamados, consulta à base de conhecimento e respostas com revisão humana | Python, FastAPI, Ollama, RAG |
+| [AI Lead Qualifier](https://github.com/ThierryDev499/ai-lead-qualifier) | Qualificação explicável de leads, histórico, webhook e integração local com CRM | Python, FastAPI, Ollama, SQLite |
+| [Simplea Sales AI](https://github.com/ThierryDev499/Sales-Comercial) | CRM desktop, pipeline comercial, chat com IA e base de conhecimento corporativa | TypeScript, React, Fastify, Electron |
+| [Portfólio](https://thierrydev499.github.io/Portifolio/) | Apresentação dos projetos, experiência profissional e decisões técnicas | HTML, CSS, JavaScript |
+
+## Experiência aplicada
 
 ### Automação de contas de consumo
 
-Projeto contratado para automatizar a captação, leitura e tratamento de contas em PDF, envolvendo água, energia elétrica e energia solar em diferentes estados e concessionárias. Trabalhei com JavaScript, Electron, OCR e RPA para lidar com os diferentes layouts e regras de extração.
+Projeto contratado para automatizar a captação, leitura e tratamento de contas em PDF de água, energia elétrica e energia solar. A solução precisou lidar com diferentes estados, concessionárias, layouts e regras de extração usando JavaScript, Electron, OCR e RPA.
 
-O código está distribuído em quatro repositórios, cada um com uma parte do mesmo projeto:
+Os componentes públicos estão organizados nos repositórios [CadastroElectron](https://github.com/ThierryDev499/CadastroElectron), [OCR-Contas-de-luz](https://github.com/ThierryDev499/OCR-Contas-de-luz), [JS_PDF_SABESP](https://github.com/ThierryDev499/JS_PDF_SABESP) e [JS_DAEB_RS](https://github.com/ThierryDev499/JS_DAEB_RS). O contexto completo está documentado no [case do portfólio](https://thierrydev499.github.io/Portifolio/#cases).
 
-| Parte do projeto | Repositório |
-| --- | --- |
-| Aplicação desktop de apoio à operação | [CadastroElectron](https://github.com/ThierryDev499/CadastroElectron) |
-| Leitura por OCR de contas de energia | [OCR-Contas-de-luz](https://github.com/ThierryDev499/OCR-Contas-de-luz) |
-| Extração de dados de contas de água da Sabesp | [JS_PDF_SABESP](https://github.com/ThierryDev499/JS_PDF_SABESP) |
-| Tratamento de contas de água da DAEB/RS | [JS_DAEB_RS](https://github.com/ThierryDev499/JS_DAEB_RS) |
+## Stack
 
-### Outros projetos
+- **Backend:** Node.js, TypeScript, JavaScript, Python, Fastify e FastAPI
+- **IA aplicada:** Ollama, agentes, engenharia de prompts, RAG e embeddings
+- **Automação:** RPA, Electron, OCR, leitura de PDFs, webhooks e integrações
+- **Dados e negócio:** SQLite, MongoDB, CRM e ERP Protheus
+- **Interfaces:** React, HTML e CSS
 
-- [Portifolio](https://thierrydev499.github.io/Portifolio/) - minha página pública com foco em arquitetura, IA aplicada e automação.
-- [Sales-Comercial](https://github.com/ThierryDev499/Sales-Comercial) - produto comercial em TypeScript para gestão e acompanhamento de vendas.
-- [cnpj-lookup](https://github.com/ThierryDev499/cnpj-lookup) - consulta empresarial em React e TypeScript conectada a API pública de CNPJ.
+## Contato
 
-## O que me move
-
-Construir tecnologia que economiza tempo, reduz erro manual e ajuda operações complexas a funcionarem com mais clareza. Meu perfil combina código, visão de arquitetura e pensamento de automação: eu olho para o processo inteiro, não só para uma tela isolada.
-
-## Links
-
-- Portfólio: https://thierrydev499.github.io/Portifolio/
-- LinkedIn: https://www.linkedin.com/in/thierry-de-matos-azevedo-8a3b15161/?locale=pt
+- [Portfólio](https://thierrydev499.github.io/Portifolio/)
+- [LinkedIn](https://www.linkedin.com/in/thierry-de-matos-azevedo-8a3b15161/)
